@@ -48,51 +48,29 @@ Embedded BI platforms typically provide **interactive dashboards, data visualiza
 
 
 
-| Platform                                                                          | Description                                                                                                                                             | Primary Focus                   |
-
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-
-| [Sisense](https://www.sisense.com/)                                               | Embedded analytics platform providing APIs, SDKs, dashboards, data modeling, visualization, and white-label analytics for software products.            | ⭐ Embedded Analytics            |
-
-| [GoodData](https://www.gooddata.com/)                                             | Developer-focused analytics platform providing embedded dashboards, analytics APIs, semantic modeling, metrics, and customizable analytics experiences. | Embedded BI, Headless Analytics |
-
-| [Logi Analytics](https://insightsoftware.com/logi/)                               | Developer-oriented embedded analytics platform for integrating dashboards, reports, visualizations, and data experiences into applications.             | Embedded BI                     |
-
-| [Reveal BI](https://www.revealbi.io/)                                             | Embedded analytics platform designed for integrating interactive dashboards, reports, visualizations, and analytics directly into applications.         | Embedded BI                     |
-
-| [Looker Embedded](https://cloud.google.com/looker)                                | Google Cloud's embedded Looker analytics offering for integrating governed dashboards, explores, and analytics into applications.                       | Enterprise Embedded BI          |
-
-| [Qlik Embedded](https://www.qlik.com/us/products/qlik-embedded-analytics)         | Developer platform for embedding Qlik analytics, visualizations, dashboards, and data experiences into applications.                                    | Embedded Analytics              |
-
-| [Domo Embedded](https://www.domo.com/platform/embedded-analytics)                 | Embedded analytics platform for integrating Domo dashboards, data applications, and analytics into customer-facing applications.                        | Embedded BI                     |
-
-| [Yellowfin](https://www.yellowfinbi.com/)                                         | Enterprise BI and embedded analytics platform providing dashboards, data storytelling, automated insights, and application-integrated analytics.        | Embedded BI                     |
-
-| [Bold BI](https://www.boldbi.com/)                                                | Embedded analytics platform providing SDKs, APIs, dashboards, reports, data visualization, white-labeling, and multi-tenant analytics.                  | ⭐ Embedded BI                   |
-
-| [Explo](https://www.explo.co/)                                                    | Developer-focused embedded analytics platform designed to add customer-facing dashboards and reporting to SaaS products.                                | SaaS Embedded Analytics         |
-
-| [ThoughtSpot Embedded](https://www.thoughtspot.com/product/embedded)              | Embedded analytics platform combining dashboards, search-driven analytics, AI-assisted insights, and data exploration.                                  | AI Embedded Analytics           |
-
-| [Power BI Embedded](https://azure.microsoft.com/products/power-bi-embedded)       | Microsoft Azure service for embedding Power BI reports and analytics into applications.                                                                 | Enterprise Embedded BI          |
-
-| [Tableau Embedded Analytics](https://www.tableau.com/products/embedded-analytics) | Salesforce Tableau technology for embedding interactive analytics and dashboards into applications and portals.                                         | Enterprise Embedded BI          |
-
-| [Domo Everywhere](https://www.domo.com/platform/embedded-analytics)               | Domo's embedded analytics offering for integrating dashboards, data applications, and analytics into external products.                                 | Embedded Analytics              |
-
-| [Sisense Fusion](https://www.sisense.com/platform/)                               | Sisense's developer-focused analytics platform for integrating governed analytics and AI-powered insights into applications.                            | Developer BI                    |
-
-| [Phocas Embedded](https://www.phocassoftware.com/)                                | Embedded analytics platform for integrating dashboards, reporting, and business intelligence into operational software.                                 | Embedded Analytics              |
-
-| [Holistics](https://www.holistics.io/)                                            | BI and embedded analytics platform providing data modeling, dashboards, reporting, and customer-facing analytics.                                       | Embedded BI                     |
-
-| [Embeddable](https://embeddable.com/)                                             | Developer-first embedded analytics platform for building highly customizable customer-facing data experiences.                                          | Developer Embedded BI           |
-
-| [Luzmo](https://www.luzmo.com/)                                                   | Embedded analytics platform with dashboard embedding, interactive visualizations, data exploration, and application integration.                        | Embedded Analytics              |
-
-| [Metabase Cloud](https://www.metabase.com/)                                       | Hosted version of Metabase providing BI dashboards and analytics without managing the infrastructure.                                                   | Hosted BI                       |
-
-| [Preset](https://preset.io/)                                                      | Managed Apache Superset platform providing hosted dashboards and analytics infrastructure.                                                              | Managed Open-Source BI          |
+| Platform | Description | Primary Focus | Pricing | Free Tier Limit |
+| --- | --- | --- | --- | --- |
+| [Sisense](https://www.sisense.com/) | Embedded analytics platform providing APIs, SDKs, dashboards, data modeling, visualization, and white-label analytics for software products. | ⭐ Embedded Analytics | Starts at ~$399/mo (Launch tier) / ~$10,000–$35,000/yr (Self-Serve base) | 7-day free trial ("Test Drive") with full access to Compose SDK and sandboxed analytics |
+| [GoodData](https://www.gooddata.com/) | Developer-focused analytics platform providing embedded dashboards, analytics APIs, semantic modeling, metrics, and customizable analytics experiences. | Embedded BI, Headless Analytics | Starts at ~$1,500/mo (Professional tier per workspace) | 30-day free trial with full platform access (AI assistant, embedded dashboards, analytics APIs; no credit card required) |
+| [Logi Analytics](https://insightsoftware.com/logi/) | Developer-oriented embedded analytics platform for integrating dashboards, reports, visualizations, and data experiences into applications. | Embedded BI | Starts at ~$100–$500/mo (Standard modules) / ~$16,000/yr (Base embedded deployment) | 15-day free trial license with evaluation software access |
+| [Reveal BI](https://www.revealbi.io/) | Embedded analytics platform designed for integrating interactive dashboards, reports, visualizations, and analytics directly into applications. | Embedded BI | Starts at ~$9,995/yr (Flat annual fee per application with unlimited users) | 30-day free trial of SDK (license key required; full dashboard and embedding features) |
+| [Looker Embedded](https://cloud.google.com/looker) | Google Cloud's embedded Looker analytics offering for integrating governed dashboards, explores, and analytics into applications. | Enterprise Embedded BI | Starts at ~$5,000/mo (~$60,000–$66,000/yr base platform + per-viewer licenses) | 30-day sales-assisted evaluation/POC instance (or free tier via Looker Studio for basic reporting) |
+| [Qlik Embedded](https://www.qlik.com/us/products/qlik-embedded-analytics) | Developer platform for embedding Qlik analytics, visualizations, dashboards, and data experiences into applications. | Embedded Analytics | Starts at ~$300/mo (Qlik Cloud Analytics Standard, billed annually, 10 users, 10 GB data) | 30-day free trial with full access to Qlik Cloud Analytics, AI insights, and embedding APIs |
+| [Domo Embedded](https://www.domo.com/platform/embedded-analytics) | Embedded analytics platform for integrating Domo dashboards, data applications, and analytics into customer-facing applications. | Embedded BI | Starts at ~$300/mo (Standard tier) / ~$50,000/yr (Enterprise consumption packages) | 30-day free trial with unlimited access to ETL, dashboards, connectors, and embedded features |
+| [Yellowfin](https://www.yellowfinbi.com/) | Enterprise BI and embedded analytics platform providing dashboards, data storytelling, automated insights, and application-integrated analytics. | Embedded BI | Starts at ~$19/user/mo (or ~$3,000–$10,000/yr base server tier) | 30-day free trial with full visualization, dashboarding, and analytics features |
+| [Bold BI](https://www.boldbi.com/) | Embedded analytics platform providing SDKs, APIs, dashboards, reports, data visualization, white-labeling, and multi-tenant analytics. | ⭐ Embedded BI | Free (Community) / Starts at ~$495/mo (~$5,940/yr flat license) | Free Community License (unlimited dashboards for 1 application for early-stage companies); 30-day free trial for Cloud/Enterprise |
+| [Explo](https://www.explo.co/) | Developer-focused embedded analytics platform designed to add customer-facing dashboards and reporting to SaaS products. | SaaS Embedded Analytics | Free (Internal BI) / Starts at $695–$995/mo (Growth) / $1,995/mo (Pro embedded) | Free forever for internal BI (unlimited users & dashboards); 7-day free trial for customer-facing embedded analytics |
+| [ThoughtSpot Embedded](https://www.thoughtspot.com/product/embedded) | Embedded analytics platform combining dashboards, search-driven analytics, AI-assisted insights, and data exploration. | AI Embedded Analytics | Free (Developer) / $25/user/mo (Essentials) / $0.10/credit (Pro consumption) / $12,999/yr (Startup) | Free Developer tier for 1 year (up to 10 users & 25M data rows); 14-day free trial for Enterprise |
+| [Power BI Embedded](https://azure.microsoft.com/products/power-bi-embedded) | Microsoft Azure service for embedding Power BI reports and analytics into applications. | Enterprise Embedded BI | Starts at $1.01/hour (~$735/mo for 24/7 continuous A1 capacity SKU, pauseable when idle) | Free embed trial tokens for development and testing (watermarked trial banner; no production limit) |
+| [Tableau Embedded Analytics](https://www.tableau.com/products/embedded-analytics) | Salesforce Tableau technology for embedding interactive analytics and dashboards into applications and portals. | Enterprise Embedded BI | Starts at ~$115/user/mo (Creator) / ~$35/user/mo (Viewer) / ~$60,000/yr (Embedded ISV agreement) | Free Developer Sandbox via Tableau Developer Program (includes Embedding Playground); 30-day general trial |
+| [Domo Everywhere](https://www.domo.com/platform/embedded-analytics) | Domo's embedded analytics offering for integrating dashboards, data applications, and analytics into external products. | Embedded Analytics | Starts at ~$300/mo (Standard base) / ~$50,000/yr (Enterprise credit packages) | 30-day free trial with full platform access, Magic ETL, and external sharing |
+| [Sisense Fusion](https://www.sisense.com/platform/) | Sisense's developer-focused analytics platform for integrating governed analytics and AI-powered insights into applications. | Developer BI | Starts at ~$399/mo (Launch) / ~$21,000–$35,000/yr (Fusion Developer / Self-Serve) | 7-day free trial sandbox with Compose SDK, Fusion data engine, and API access |
+| [Phocas Embedded](https://www.phocassoftware.com/) | Embedded analytics platform for integrating dashboards, reporting, and business intelligence into operational software. | Embedded Analytics | Starts at ~$150/user/mo (or ~$1,800/yr per named user + base platform fee) | 30-day sales-assisted evaluation environment (or 30–60 min interactive live POC demo) |
+| [Holistics](https://www.holistics.io/) | BI and embedded analytics platform providing data modeling, dashboards, reporting, and customer-facing analytics. | Embedded BI | Starts at $800/mo (billed annually at $9,600/yr) or $960/mo (Entry plan; Embedded add-on from $800/mo) | 14-day free trial with full feature access and no credit card required (extendable to 21 days on request) |
+| [Embeddable](https://embeddable.com/) | Developer-first embedded analytics platform for building highly customizable customer-facing data experiences. | Developer Embedded BI | Starts at ~$499–$995/mo (Flat-rate session-based subscription) | 14-day developer trial / sandbox access to SDK, headless components, and live playground |
+| [Luzmo](https://www.luzmo.com/) | Embedded analytics platform with dashboard embedding, interactive visualizations, data exploration, and application integration. | Embedded Analytics | Starts at $995/mo (~€1,995/mo for Pro, billed annually based on Monthly Active Viewers) | 10-day free trial with full access to dashboard editor, API integration, and dataset uploads |
+| [Metabase Cloud](https://www.metabase.com/) | Hosted version of Metabase providing BI dashboards and analytics without managing the infrastructure. | Hosted BI | Starts at $90/mo (billed annually at $1,080/yr) or $100/mo (Starter plan with 5 users; Pro from $518/mo) | 14-day free trial of Metabase Cloud (no credit card required); Metabase Open Source is free forever (self-hosted) |
+| [Preset](https://preset.io/) | Managed Apache Superset platform providing hosted dashboards and analytics infrastructure. | Managed Open-Source BI | Free (Starter) / Starts at $25/user/mo (Professional; Embedded add-on from $500/mo for 50 viewers) | Free forever Starter plan (up to 5 users, 1 workspace, unlimited charts/dashboards; hibernates after 30 days inactivity) |
 
 
 
